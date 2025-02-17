@@ -1,0 +1,48 @@
+# OS and Editor Files
+.DS_Store          # macOS Finder
+Thumbs.db          # Windows Explorer
+.idea/             # IntelliJ IDEA
+.vscode/           # VS Code
+*.swp              # Swap files (Vim, etc.)
+*~                 # Backup files (various editors)
+
+# Node.js and npm (if applicable)
+node_modules/      # Dependencies
+package-lock.json  # Lockfile (sometimes included, sometimes not)
+.npmrc             # npm configuration
+
+# Python (if applicable)
+__pycache__/       # Python bytecode
+*.pyc              # Compiled Python files
+.venv/             # Virtual environment
+env/               # Another common virtual env name
+
+# Other Common
+.env               # Environment variables (never commit these!)
+config.ini         # Configuration files that might contain secrets
+*.log              # Log files
+*.tmp              # Temporary files
+tmp/               # Temporary directory
+temp/              # Another temporary directory
+.cache/            # Cache directories
+*.bak              # Backup files
+*.dump             # Database dumps
+*.sql              # SQL files (be careful, might contain sensitive data)
+
+# Images (if you don't want to track changes to them)
+# images/            # Entire images directory
+# *.png             # All PNG images
+# *.jpg             # All JPG images
+# *.gif             # All GIF images
+# *.svg            # All SVG images
+
+# Folders you want to ignore
+dist/
+build/
+
+# Package Managers (if applicable)
+yarn.lock          # Yarn lockfile
+pnpm-lock.yaml     # pnpm lockfile
+
+# Specific to your project
+# Add any other files or folders your project generates that shouldn't be in Git

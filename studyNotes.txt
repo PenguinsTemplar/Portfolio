@@ -1,0 +1,19 @@
+CSS 
+	Selector
+		eg h1 - the selector inidcates whats being targeted.  classes have a '.' and id's have a '#'
+	Property 
+		eg color, border.  The attribute of the thing you selected you want to modify
+	Value
+		eg "pink" "1px solid" - the specifics of what you want the property of the thing you selected to be
+Design: Do the Default, then make exceptions
+
+
+Job notes
+
+Not about me
+Must have the exact title
+must have the exact tags
+
+Active linked in use.
+
+Follow and interact companies your linked in
