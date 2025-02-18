@@ -49,6 +49,9 @@ img {
 .section-aqua {
 	background-color: var(--aqua);
 }
+.section-clay {
+	background-color: var(--clay);
+}
 .gradient {
 	background: linear-gradient(
 		90deg,
