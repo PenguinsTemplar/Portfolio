@@ -29,6 +29,7 @@ body {
 	background-color: var(--dpgreen);
 	color: var(--white);
 	font-size: var(--font-size);
+	text-shadow: var(--plum) 3px 2px 3px;
 }
 h1,
 h2,
@@ -196,7 +197,6 @@ footer a:hover {
 #projectwall {
 	padding: 4rem 1 rem;
 	max-width: 1200px;
-	text-shadow: var(--plum) 3px 2px 3px;
 }
 #projectwall a {
 	color: var(--white);
