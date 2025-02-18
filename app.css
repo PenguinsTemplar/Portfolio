@@ -6,7 +6,7 @@
 	--grassgreen: #80a037;
 	--clay: rgb(152, 122, 85);
 	--burntorange: #914022;
-	--aqua: #227777;
+	--aqua: #379d9d;
 	--white: #f7f8fa;
 	--font-size: 1.3rem;
 	--mono: 'Oxygen mono', monospace;
@@ -228,7 +228,7 @@ footer a:hover {
 	color: var(--white);
 	font-size: 1rem;
 	line-height: 1.5rem;
-	box-shadow: 0 5px 5px rgba(0, 0, 0, 0.3);
+	box-shadow: 0 5px 5px var(--plum);
 	background-image: linear-gradient(
 		90deg,
 		rgba(145, 64, 34, 1) 25%,
@@ -250,8 +250,8 @@ footer a:hover {
 
 #projectwall img {
 	margin: 2rem 0 4rem 0;
-	border-left: var(--burntorange) 2px solid;
-	border-top: var(--burntorange) 2px solid;
+	border-left: var(--aqua) 2px solid;
+	border-top: var(--aqua) 2px solid;
 	border-radius: 10px;
 	padding: 0.5rem;
 }
