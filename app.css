@@ -68,8 +68,7 @@ nav {
 	background-color: var(--burntorange);
 	padding: 0;
 	text-align: center;
-	font-size: 80%;
-
+	font-size: 75%;
 	cursor: pointer; /* Change the cursor to a hand */
 	transition: background-color 0.2s ease, box-shadow 0.2s ease,
 		transform 0.1s ease;
@@ -111,7 +110,7 @@ nav h1 a:hover {
 
 .button {
 	font-family: var(--mono);
-	height: 4rem;
+	height: 3rem;
 	width: auto;
 	border-radius: 5px;
 	color: var(--white);
