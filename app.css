@@ -194,7 +194,7 @@ footer a:hover {
 }
 /* ProjectWall */
 #projectwall {
-	padding: 2rem 4rem 0;
+	padding: 4rem 1 rem;
 	max-width: 1200px;
 	text-shadow: var(--plum) 3px 2px 3px;
 }
@@ -214,9 +214,8 @@ footer a:hover {
 #projectwall h3 {
 	color: var(--aqua);
 }
-
 #projectwall h4 {
-	font-size: 1.2rem;
+	font-size: 1rem;
 	font-family: var(--mono);
 	margin: 0;
 }
