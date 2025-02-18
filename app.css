@@ -107,6 +107,9 @@ nav h1 [class*='fa-'] {
 nav h1 a:hover {
 	color: var(--grassgreen);
 }
+nav a:focus {
+	color: var(--grassgreen);
+}
 
 .button {
 	font-family: var(--mono);
@@ -249,9 +252,9 @@ footer a:hover {
 
 #projectwall img {
 	margin: 2rem 0 4rem 0;
-	border-left: var(--aqua) 2px solid;
-	border-top: var(--aqua) 2px solid;
-	border-radius: 10px;
+	border-left: var(--aqua) 1px solid;
+	border-top: var(--aqua) 1px solid;
+	border-radius: 15px;
 	padding: 0.5rem;
 }
 
