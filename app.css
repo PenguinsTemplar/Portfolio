@@ -55,7 +55,8 @@ img {
 .gradient {
 	background: linear-gradient(
 		90deg,
-		rgba(145, 64, 34, 1) 25%,
+		rgba(145, 64, 34, 1) 0%,
+		rgb(210, 117, 54) 75%,
 		rgba(128, 160, 55, 1) 100%
 	);
 	height: 2px;
@@ -231,9 +232,9 @@ footer a:hover {
 	box-shadow: 0 5px 5px rgba(0, 0, 0, 0.3);
 	background-image: linear-gradient(
 		90deg,
-		rgba(145, 64, 34, 1) 50%,
-
-		rgba(128, 160, 55, 1) 90%
+		rgba(145, 64, 34, 1) 25%,
+		rgb(187, 104, 49) 50%,
+		rgba(128, 160, 55, 1) 100%
 	);
 }
 
