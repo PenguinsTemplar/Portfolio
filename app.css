@@ -66,8 +66,8 @@ a:hover {
 /* NAV BAR */
 nav {
 	font-family: var(--mono);
-	padding: 4rem 1rem;
 	font-size: 80%;
+	padding: 1rem 0rem 0rem 0rem;
 	background-color: var(--burntorange);
 	box-shadow: var(--plum) 0 3px 3px 3px;
 }
