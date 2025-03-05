@@ -147,6 +147,11 @@ nav a:hover {
 	font-size: 4rem;
 	font-weight: normal;
 }
+#introImg{
+	width: 10rem;
+	border-radius: 50%;
+	ju
+}
 /* Contact Section */
 #contact {
 	width: 400px;
