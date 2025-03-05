@@ -123,7 +123,7 @@ nav a:hover {
 
 /* INTRO SECTION */
 #intro {
-	padding: 4rem 1rem 10rem 1rem;
+	padding: 4rem 1rem 5rem 1rem;
 	max-width: 1200px;
 	margin: 0 auto;
 }
@@ -147,10 +147,15 @@ nav a:hover {
 	font-size: 4rem;
 	font-weight: normal;
 }
-#introImg{
+/* i need this centered on the page */
+#introImg {
 	width: 10rem;
 	border-radius: 50%;
-	ju
+	padding: 0.5rem;
+	background-color: var(--burntorange);
+	box-shadow: var(--plum) 0 3px 3px 3px;
+	margin: auto;
+	display: block;
 }
 /* Contact Section */
 #contact {
