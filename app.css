@@ -180,6 +180,10 @@ footer a {
 footer a:hover {
 	color: var(--grassgreen);
 }
+.nameTitle{
+	font-size: 1rem;
+	padding: 1rem 0 1rem;
+}
 /* ProjectWall */
 #projectwall {
 	padding: 4rem 1 rem;
