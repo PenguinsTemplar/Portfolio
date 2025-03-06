@@ -73,7 +73,6 @@ a:hover {
 
 #navGroup img {
 	max-height: 11.5rem;
-	
 }
 /* NAV BAR */
 nav {
@@ -338,10 +337,6 @@ footer a:hover {
 @media (max-width: 973px) {
 	/* Adjust the breakpoint as needed */
 	#navGroup img {
-		display: none;
-	}
-
-	#projectwall img {
 		display: none;
 	}
 }
