@@ -68,10 +68,12 @@ a:hover {
 	flex-flow: row nowrap;
 	justify-content: center;
 	align-items: center;
+	background-color: var(--burntorange);
 }
 
 #navGroup img {
 	max-height: 11.5rem;
+	
 }
 /* NAV BAR */
 nav {
